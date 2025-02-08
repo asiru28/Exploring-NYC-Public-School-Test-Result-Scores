@@ -47,20 +47,6 @@ The dataset, schools.csv, contains the following columns:
       ![d4](https://github.com/user-attachments/assets/567daea8-339c-4384-89fd-c2cfd57d3685)
 
 
-# Key Findings
-
-1. Top Math Schools:
-    - The top 5 schools with the highest average math scores are:
-        1. Stuyvesant High School (754)
-        2. Bronx High School of Science (714)
-        3. Staten Island Technical High School (711)
-        4. Queens High School for the Sciences at York College (701)
-        5. High School for Mathematics, Science, and Engineering at City College (683).
-2. Top 10 Schools by Total SAT Scores:
-    - The top 10 schools have total SAT scores ranging from 1889 to 2144.
-3. Borough-Level Variability:
-    - Manhattan has the highest standard deviation in SAT scores, indicating significant differences in performance across its schools.
-
 # Recommendations
 
 1. Resource Allocation:
